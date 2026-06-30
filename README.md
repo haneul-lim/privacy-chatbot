@@ -151,8 +151,7 @@ npm run dev
 ---
 
 ## 📸 데모
-
-
+[클루파인더 챗봇 화면](https://github.com/user-attachments/assets/8ce71b4a-e4ba-44a9-9f24-2e65e2ea0dcd)
 
 ---
 
