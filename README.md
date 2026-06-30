@@ -152,6 +152,7 @@ npm run dev
 
 ## 📸 데모
 <img src="https://github.com/user-attachments/assets/8ce71b4a-e4ba-44a9-9f24-2e65e2ea0dcd" width="50%" align="center">
+
 ---
 
 ## 💬 사용 방법
